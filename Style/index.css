@@ -82,6 +82,9 @@ nav>.mid>ul {
     display: none;
 }
 
+.home-img1 {
+    border-radius: 50%;
+}
 /* Homepage main section */
 
 .background{
@@ -214,7 +217,7 @@ nav>.mid>ul {
 
 
 #about>.right>img {
-    border-radius: 47%;
+    /* border-radius: 47%; */
     width: 60%;
     margin: auto;
     /* border: 7px solid #3E065F; */
