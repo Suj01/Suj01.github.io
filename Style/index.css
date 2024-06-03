@@ -281,7 +281,7 @@ nav>.mid>ul {
 
 }
 
-/* Github */
+
 
 
 .achivements {
@@ -308,9 +308,7 @@ nav>.mid>ul {
     margin-top: 50px;
     width: 100%;
 }
-/* .github > div > img {
-    
-} */
+
 
 
 /* Projects */
@@ -399,18 +397,14 @@ nav>.mid>ul {
 /* Contact */
 
 #contact{
-    /* border: 2px solid black; */
     width: 100%;
-    /* height: 100vh; */
     display: flex;
     justify-content: center;
     align-items: center;
     margin: auto;
     background-color: #3e065f4a;
-    /* background-color: rgb(215, 212, 212); */
   }
   #contact > div {
-    /* border: 2px solid red; */
     width: 45%;
     margin: 50px 0;
     padding: 40px;
@@ -423,14 +417,11 @@ nav>.mid>ul {
   }
   #contact > #c-left > h2{
     margin-bottom: 30px;
-    /* font-size: 55px; */
-    /* border-bottom: 1px solid #8c04c2; */
   }
   #contact > #c-left > p{
     margin: 20px 0;
   }
   #contact > #c-left > div:nth-child(3){
-    /* border: 1px solid yellow; */
     display: flex;
     flex-direction: column;
   }
@@ -441,7 +432,7 @@ nav>.mid>ul {
   #contact > #c-right > form{
     display: flex;
     flex-direction: column;
-    /* border: 2px solid green; */
+
     width: 70%;
     margin: auto;
   }
@@ -472,7 +463,7 @@ nav>.mid>ul {
   /* FOOTER SECTION */
 
   footer{
-    /* border: 1px solid red; */
+
     height: auto;
     width: 100%;
   }
@@ -497,7 +488,6 @@ nav>.mid>ul {
         border-bottom: 1px solid #3E065F;
         position: fixed;
         justify-content: space-between;
-        /* border: 1px solid red; */
     }
     .ham-icon{
         display: block;
@@ -522,7 +512,6 @@ nav>.mid>ul {
         gap: 30px;
     }
     .ham-menu > ul > li:first-child{
-        /* border: 1px solid #8c04c2; */
         padding: 8px 15px;
         border-radius: 50%;
         font-size: 25px;
@@ -565,7 +554,6 @@ nav>.mid>ul {
         display: flex;
         justify-content: flex-end;
         align-items: center;
-        /* border: 1px solid white; */
     }
     .right> a > button{
         display: none;
@@ -594,7 +582,6 @@ nav>.mid>ul {
         grid-template-columns: repeat(1, 1fr);
         grid-auto-flow: row dense;
         padding: 0;
-        /* margin: 0 20px; */
      }
      #about > div{
         text-align: center;
